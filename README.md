@@ -1,1 +1,1 @@
-# libbie-Java-texteditor-
+Libbie texteditor
